@@ -1,6 +1,13 @@
-# movies
+# Movies
 
 A new Flutter project.
+
+
+
+
+https://user-images.githubusercontent.com/109653505/210243815-56fbc08e-be71-4e3c-9a22-db545a3214b8.mp4
+
+
 
 ## Getting Started
 
