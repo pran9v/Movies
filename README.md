@@ -1,7 +1,9 @@
 # Movies
 
 A new Flutter project.
+
 Api used: tmdb
+
 for authentication: Firebase
 
 
