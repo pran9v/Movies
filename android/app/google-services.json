@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "280615228073",
+    "project_id": "movies-82e1d",
+    "storage_bucket": "movies-82e1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280615228073:android:8bfcd93ce346b4d1c30fb8",
+        "android_client_info": {
+          "package_name": "com.moviesapp.pranav.movies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280615228073-gnfl9rv2g257t8ld4i34k7q4ogfbf02h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.moviesapp.pranav.movies",
+            "certificate_hash": "dc5f536d224e532e1a5e27f14bf5c6277255eae2"
+          }
+        },
+        {
+          "client_id": "280615228073-jhu0k9ibuli9vpg2of4qsvpg9224mn48.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC93WTxTPRaP9EFhDm0FkaR0k0BpBg4yrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280615228073-jhu0k9ibuli9vpg2of4qsvpg9224mn48.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
